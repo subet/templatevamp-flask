@@ -15,3 +15,6 @@ Flask + Jinja2 converstion
 --------------------------
 
 I converted the demo site to use Jinja2 templates and made it available here.
+
+## By Subet
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
